@@ -1,0 +1,26 @@
+{
+  "name": "neverblink",
+  "version": "1.0.0",
+  "description": "This is not a valid package",
+  "keywords": [
+    "neverblink",
+    "placeholder"
+  ],
+  "homepage": "https://neverblink.eu",
+  "bugs": {
+    "url": "https://github.com/NeverBlink-labs/npm-neverblink/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeverBlink-labs/npm-neverblink.git"
+  },
+  "license": "Apache-2.0",
+  "author": "NeverBlink (https://neverblink.eu)",
+  "files": [
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
